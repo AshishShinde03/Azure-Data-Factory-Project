@@ -29,3 +29,8 @@ Building a Azure Cloud Data Platform for Data Scientists to Predict the covid19 
 		
 	2. Eurostat Website -> https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00010.tsv.gz
 		Population by age
+
+## Data Ingestion
+1. Population by Age data: Ingestion from Azure Blob Storage to Azure Data Lake using copy activity
+   ![image](https://github.com/AshishShinde03/Azure-Data-Factory-Project/assets/91445214/2607b07c-ba0b-41a4-9eec-cfdae548b06e)
+
