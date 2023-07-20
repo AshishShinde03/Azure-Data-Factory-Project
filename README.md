@@ -32,5 +32,6 @@ Building a Azure Cloud Data Platform for Data Scientists to Predict the covid19 
 
 ## Data Ingestion
 1. Population by Age data: Ingestion from Azure Blob Storage to Azure Data Lake using copy activity
-   ![image](https://github.com/AshishShinde03/Azure-Data-Factory-Project/assets/91445214/2607b07c-ba0b-41a4-9eec-cfdae548b06e)
+   ![image](https://github.com/AshishShinde03/Azure-Data-Factory-Project/assets/91445214/048d98a0-54a7-4a06-b4a2-c518acb7b5b3)
+
 
