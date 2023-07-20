@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-azure-project-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa57b2cb-4594-40bd-aeaf-c9f42bbf2e29",
+		"tenantId": "d64b7581-e280-4548-a65f-5a1bc8d65a60"
+	}
+}
