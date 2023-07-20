@@ -1,10 +1,10 @@
 # Azure-Data-Factory-Project
 Project on Azure Data Factory Covid19 Prediction and Reporting
 
-#Solution Architecture
+# Solution Architecture
 ![image](https://github.com/AshishShinde03/Azure-Data-Factory-Project/assets/91445214/9f8f039c-3951-44a8-838c-3d42567d0df9)
 
-#Project Overview
+# Project Overview
 Objective -> Building a Azure Cloud Data Platform for Data Scientists to Predict the covid19 outbreak and for Data Analyst for reporting and visualiation.
 
 # Step by step Objectives
