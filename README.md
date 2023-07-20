@@ -7,7 +7,7 @@ Project on Azure Data Factory Covid19 Prediction and Reporting
 ## Project Overview
 Objective -> Building a Azure Cloud Data Platform for Data Scientists to Predict the covid19 outbreak and for Data Analyst for reporting and visualiation.
 
-# Step by step Objectives
+## Step by step Objectives
 	1. Data Lake to be built with the following data to aid Data Scientists to predict the spread of the virus/ mortality
 		Confirmed cases
 		Mortality
@@ -20,7 +20,7 @@ Objective -> Building a Azure Cloud Data Platform for Data Scientists to Predict
 		Hospitalization/ ICU Cases
 		Testing Numbers
 
-# Data Sources
+## Data Sources
 	1. ECDC Website -> https://www.ecdc.europa.eu/en/covid-19/data
 		Confirmed cases
 		Mortality
