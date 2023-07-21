@@ -14,6 +14,9 @@
 		"ls_adls_covidreportingdl_properties_typeProperties_url": {
 			"value": "https://azcovidreportingdl.dfs.core.windows.net/"
 		},
+		"tr_ingest_population_data_properties_typeProperties_scope": {
+			"value": "/subscriptions/75e4742e-e60a-4766-a4b6-c0125b5118e7/resourceGroups/covid-reporting-rg/providers/Microsoft.Storage/storageAccounts/azcovidprojectsa"
+		},
 		"containerUri": {
 			"value": ""
 		},
