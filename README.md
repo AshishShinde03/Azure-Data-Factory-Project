@@ -20,6 +20,8 @@ Building a Azure Cloud Data Platform for Data Scientists to Predict the covid19 
 		Hospitalization/ ICU Cases
 		Testing Numbers
 
+  
+
 ## Data Sources
 	1. ECDC Website -> https://www.ecdc.europa.eu/en/covid-19/data
 		Confirmed cases
